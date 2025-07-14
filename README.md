@@ -1,5 +1,5 @@
 # SuspiciousLoginDetector
-Suspicious Login Detector: Java command-line tool to detect anomalous user login behaviourDec 2024 - Jan 2025
+Suspicious Login Detector: Java command-line tool to detect anomalous user login behaviour
 Tools: Java, CSV, Java Time API, Java Collections
 
 - Developed a Java-based tool to log and analyse user login activity for identifying suspicious behaviour such as multiple logins within a short period of time or fast country switching.
